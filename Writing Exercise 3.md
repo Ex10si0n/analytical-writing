@@ -1,0 +1,10 @@
+# Writing Exercise 3
+> As most people spend a major part of their adult life at work, job satisfaction is an important element of individual well-being. What factors contribute to job satisfaction for all workers?  
+
+For adults, work occupies much of lifetime of working people. It is vital that they have a fulfilling career. In this essay, I will identify the factors contributing to job satisfaction and analyze expectations of the job to what extent among different people.
+
+Initially, the two significant factors that contribute to job satisfaction are high payment and low workload. Due to different considerations and goals,  people who are pursuing higher income are willing to take more responsibility and confront with challengeous because higher income is usually the result of overcoming difficulties and risks , other people prefer effortless work and do not feel like having too much stress. The job expectation depends on their opinion, hence; people should balance the income and workload according to their ability.
+
+Secondly, it is a common phenomenon that the expectation of job satisfaction is more realistic among people with work experience than that of graduates. Experienced people can evaluate the difficulty of work in advance to ensure that they can manage it confidently. Compared with the sophisticated people, they are just leaving the college or university, a lack of practical expertise is the dominant reason that they are always over-confident. Graduates expectation of their job contradicts the reality: they are looking forward an occupation with less workload and good payment, however; it is impractical. In comparison, sophisticated and experienced people are expecting a job that matchable benefits and income with their ability.
+
+It is necessary to engage in work down-to-earth to improve adequate work-skills and to accumulate work experience with a heavy workload, only when a working people are so competent that they are qualified to have a better expectation of job satisfaction because the jobs are impossible to satisfy all workers.
