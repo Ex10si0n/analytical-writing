@@ -1,0 +1,10 @@
+# Writing Exercise 4
+> Research says more and more business training and business meeting are taking place online. Do the advantages outweigh the disadvantages?  
+
+As the pandemic breaks out, the economic structure has been overturned, many activities that were held offline are being held online now. Among these activities, online meeting for businesses is reasonably successful. Nowadays, an increasing number of companies are aware of the advantage of holding conferences via the Internet.
+
+It is convenient and cost-efficient for a company to adopt online meetings. Regardless of the time difference and geological limitation, any employee who has a computer and Internet access can attend online meetings. Besides, taking a conference online does not need to have a particular workshop, meeting attendees can participate in it from home. Moreover, it can lower the cost of meeting holders in aspects of providing transportation and accommodation. Therefore, it is a trend that more and more businesses are holding meetings online.
+
+On the contrary, the online meeting is less productive than the traditional approach, people are easily distracted when attending meetings in front of a camera, in which situation, it is difficult for the meeting lecturer to find out what slackers are doing, who may engage in some irrelevant activities such as playing phone games, watching videos or browsing the Internet. They could be possibly disturbed by their children or pets during the meeting as well. Besides, online meeting software such as Zoom and Microsoft Teams, having complex functions which are not user-friendly to older employees who are not good at operating computers.
+
+In conclusion, the advantages of online meetings outweigh the disadvantages. From the perspective of finance, it saves the cost of a firm but achieves almost the same outcome. In aspect of technology, it is a great innovation that is suitable for contemporary situation and the future. Despite some inadaptation exists, it is a trend and even a revolution of the Internet and telecommunications.
