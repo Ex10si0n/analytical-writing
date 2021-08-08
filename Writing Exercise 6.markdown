@@ -1,0 +1,10 @@
+# IELTS Writing Exercise 6
+> In today’s world of advanced science and technology, we still greatly value our artists such as musicians, painters and writers. What can arts tell us about life that science and technology cannot?  
+
+Despite the rapid development in technology, arts are still playing an irreplaceable role in our spiritual life. Musicians, painters, and writers are as highly valued as ever. What they bring to us are their feelings, sincere emotions, and suggestions as well. However, these kinds of human emotions cannot be easily expressed by machines.
+
+To begin with, science and technology have offered us convenience, opportunity, and connectivity. Specifically, as the enlarging stack of technology related to telecommunication, increasing Internet applications are developed by lots of creative people, for example, short videos, mobile payment, and e-commerce. Moreover, the boost of Information Technology enables a faster calculating speed. And it energizes Deep Learning which is an approach for implementing AI and increase productivity. Nevertheless, the current level of AI has a large gap between what science fiction films told us. Machines still cannot understand real feelings.
+
+In contrast, arts can establish a spiritual connection with people. In brief, artistic works can lead people to have the same passion as its composer. Such as, people feel pleasant and contempt when listening to motivational music or appreciating a peaceful painting. In addition, literature as another kind of art expresses much more feelings about a certain social situation or a period of history. As an example, Forrest Gump delivered an inspirational emotion to readers. Generally speaking, all forms of art are aimed at conveying sensibilities, which are people-oriented creations rather than utility tools.
+
+Although science and technology advance our living standards, the arts can touch us to a much deeper extend. That is a spiritual experience, it reminds us we are unique and have real feelings about the surrounding world. What we need is not only by technology but also by appreciation to others from our minds.

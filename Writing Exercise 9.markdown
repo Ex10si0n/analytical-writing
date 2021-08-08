@@ -1,0 +1,10 @@
+# Writing Exercise 9
+> With the increasing demand for energy sources of oil and gas, people should look for sources of oil and gas in remote and untouched natural places. Do the advantages outweigh disadvantages of damaging such areas？  
+
+The demand for energy sources of oil and gas is continually rising. In addition, it is a fact that fossil fuels have already reached an alarming rate. Some organizations suggest that people should develop energy sources and collect fossil fuels in remote and unreached land. However, it will be harmful to the world and human beings if people consider this advice.
+
+On the one hand, people will confront unknown risks when searching for energy in untouched natural places. The cost will be unevaluated due to unaware threat. Moreover, this action may cause local climate change that will impact on global climate. For example, the ability of humans in researching the deep sea is equivalent to that in studying the Moon. No surprise, there will be uncountable problems in developing facilities for undersea fuels mining. What's more, the South Pole is covered by glaciers, which will cause a rising in sea level if people collect fossil fuels unproperly.
+
+On the other hand, even we can collect more energy from undeveloped natural places. There will be a problem in the scramble for resources as well. Although the supplement of resources increased, under the circumstance that most energy forms are unsustainable, the need for energy will not decrease. War in the middle east is a typical instance of the scramble for crude oil. In some regions without sovereign rights, these kinds of contentions could be even more fierce. 
+
+In conclusion, the extent of risks outweighs the profits that come from developing remote and unreached places. Even nowadays, the technology is not stable enough that can avoid all kinds of difficulties. Moreover, it will also cause issues in resource scrambling. People should find a way to develop sustainably, scientists and researchers should work together in developing revolutionary energy sources.
