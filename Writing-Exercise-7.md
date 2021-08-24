@@ -1,0 +1,10 @@
+# IELTS Writing 7
+> Some people think that lawbreakers should be sent to prison. However, others think that better talents among those should be made to work. Discuss both views and give your own opinion.  
+
+It is heated controversy about whether the prisoner with better talents should be made to work. From my perspective, lawbreakers must be sentenced to jail, although some of them are talented in certain aspects of their works.
+
+To begin with, sentencing the lawbreakers to prison, only in this way, can ensure that the sufferer's rights not be violated again. Moreover, for espionage crimes, isolating them from the outside can keep the nation in a safer situation. The criminals should receive adequate punishment and realize their faults of committing a crime before being released to society. Otherwise, those wrongdoers with a criminal record could commit another crime habitually. Particularly, talented crimes can upgrade the modus operandi that increases the difficulty of catching them.
+
+Nevertheless, criminals with professional talents can be granted a specific work under imprisonment. They deserve penalties because of their misbehaviors and crimes despite their talents. However, it is reasonable to allow reformed criminals to contribute to society with their expertise and skills. For instance, the police can employ reformed frauds to assist them in detecting fraud cases with their experience. Another example, reformed hackers can work for corporations to protect technology intelligence from being stolen by competitors. In addition, they can work for the military to defend national hacking activities. In case these talented expirees are virtuous, they should be couraged to work and make good use of their profession.
+
+In conclusion, criminals should be under imprisonment because they deserve it. If someone with gifted expertise could leave the jail, it is unequal to other prisoners and unfair to the sufferers. Consequently, lawbreakers with professions also need to be sentenced to prison as others.

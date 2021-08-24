@@ -1,0 +1,10 @@
+# Writing Exercise 8
+> Many of the countries believe that international tourism has harmful effects. Why do they think so?what can be done to change their views  
+
+Nowadays, international travellings are more and more common due to economic growth. However, some people believe that it harms the local economy and the environment. This essay will discuss the influences in two aspects as well as propose some possible solutions.
+
+Despite the continuous profits of international tourism, it causes economic issues. Firstly, prices, especially housing prices, in some countries with tourism as the centre industry increase considerably. The purchasing power of foreign travellers is higher than that of local people. As a result, prices are determined by tourists rather than the locals. This phenomenon leads to a higher living expense of local people. As an instance, housing price in Cambodia rises approximately 15% each year due to the flourishing tourism. However, it is hard for local people to purchase houses that are at a sky-high price. To solve this problem, the government needs to provide public housing to those who meet certain conditions. Under this circumstance, the quality of locals' life can be ensured.
+
+Moreover, international tourism causes environmental issues. The natural scenes in many nations have been ruined because of increasing international tourists. Thailand is a well-known tourist destination, particularly for its beaches. During the global epidemic, beaches have been maintained so that the seas are crystal clear again, which have been damaged by excess international tourists before closing up. Nevertheless, travellers cannot be forbidden from visiting seashores. A possible solution is intermittent opening. It not only increases the sightseeing experience due to less crowded tourists. Moreover, it enables cleaning staff to have enough time in maintaining.
+
+In conclusion, although international tourism could be harmful to the local economy and environment, local government can apply appropriate solutions to these issues. These solutions can be beneficial to these countries in terms of economic growth.
