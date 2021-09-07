@@ -1,7 +1,7 @@
 # Writing Exercise 10
 > Damage to environment is an inevitable consequence of the improvement in the standard of living. To what degree do you agree or disagree to this position?
 
-People in every country are willing to have a higher standard of living under the Internet age, especially in these recent years that ordinary people are audiences of KOLs who like sharing their life on social media. Moreover, it is well agreed the need for improvement can cause damage to the environment surrounding us.
+People in every country are willing to have a higher standard of living under the Internet age, especially in these recent years that ordinary people are audiences of KOLs who like sharing their life on social media. However, the need for improvement can cause damage to the environment surrounding us.
 
 Throughout history, the consumption of electricity is the price of the development of human society. Initially, the most significant energy nowadays - Electricity, is still mainly generated from burning fossil fuels. That leads to a large scale of mining for fuels like coal. As an example, Shanxi is a famous coal-producing province in China. The geological environment here has damaged during the 80s, so China has set about protecting the environment in Shanxi. Additionally, Although there are several ideal cleaning energy like nuclear and hydro energy, the related technologies are needed to be improved.
 
