@@ -12,7 +12,7 @@ Remark:
 
 ### Exercise 1
 
-> The restoration of old buildings in major cities throughout the world often involves numerous government expenditure. This money will bring more benifits if it is used to privide new housing or road development. To what extend do you agree or disagree.
+> The restoration of old buildings in major cities throughout the world often involves numerous government expenditure. This money will bring more benifits if it is used to provide new housing or road development. To what extend do you agree or disagree.
 
 The most fundamental reason is that the historical and cultural value of some old buildings is unparalleled and incomparable. Take Forbidden City as an example, it is the royal palace in Ming and Qing Dynasty in China, witnessing past glories and the throne of emperor as well as representing the architectural features of that time. If the authority fails to protect those historical relics, it is a great loss for the preservation of national culture. 
 
