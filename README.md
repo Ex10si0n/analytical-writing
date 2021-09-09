@@ -1,10 +1,12 @@
 # Ex10si0n IELTS Writing Backups
 
-这里备份着一些我学习雅思的时候进行的写作练习
+This repository contains IELTS Writing Exercises by me as well as some tips.
+Hope it will be helpful to you when you searching in Github.
+The following README file will shows some tips about IELTS Writing.
 
 ## Writing improvement
 
-### Article Structure
+### [Structural | Important] Article Structure
 
 * Introduction
 	* Backrgound
@@ -41,7 +43,7 @@ Ideas to come up with from:
 * Use main question words: who, what, where, when and how.
 * choose the idea that are easiest to explain.
 
-## 写作机经
+## Writing Insitutional Predictions
 
 Remark:
 * Social Development / Life
@@ -49,7 +51,7 @@ Remark:
 * Education
 * Environment / Animal Protection
 
-### 2021 九月机经
+### Sept. 2021 prediction with examples
 
 > The restoration of old buildings in major cities throughout the world often involves numerous government expenditure. This money will bring more benifits if it is used to provide new housing or road development. To what extend do you agree or disagree.
 
