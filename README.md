@@ -2,7 +2,46 @@
 
 这里备份着一些我学习雅思的时候进行的写作练习
 
-## 2021 年九月写作机经
+## Writing improvement
+
+### Article Structure
+
+* Introduction
+	* Backrgound
+	* Describe question
+	* Answer question
+* Main Paragraph 1
+	* ==Main Idea==
+	* Explanation
+	* Examples
+* Main Paragraph 2
+	* ==Main Idea==
+	* Explanation
+	* Examples
+* Conclusion
+
+==Main Idea==:
+
+* Point 1: topic sentence should simply state topic of paragrap
+* Point 2: better to use vocabulary from thesis or keywords from question
+* Point 3: should not contain arguments or example
+
+### Misc.
+
+Here are things you need to avoid in order to generate ideas well that will be relevant to the task:
+
+* Avoid difficult and extreme topics.
+* Avoid using bad IELTS question.
+* Avoid thinking that you are not encouraged to form opinions.
+* Avoid trying to be interesting.
+
+Ideas to come up with from:
+
+* Analyze model essay.
+* Use main question words: who, what, where, when and how.
+* choose the idea that are easiest to explain.
+
+## 写作机经
 
 Remark:
 * Social Development / Life
@@ -10,7 +49,7 @@ Remark:
 * Education
 * Environment / Animal Protection
 
-### Exercise 1
+### 2021 九月机经
 
 > The restoration of old buildings in major cities throughout the world often involves numerous government expenditure. This money will bring more benifits if it is used to provide new housing or road development. To what extend do you agree or disagree.
 
