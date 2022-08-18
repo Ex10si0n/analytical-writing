@@ -88,7 +88,7 @@ Example:
 
 First, the author needs to examine other factors which could result in fewer accidents to assist in evaluating his assumption that Butler County's road improvement project is the primary reason leading to the 25 percent decline in the number traffic accidents.
 
-**Step 3. (Same as Question) Giving concrete examples to weaken the author **
+**Step 3. (Same as Question) Giving concrete examples to weaken the author**
 
 It is possible that over the past five years, the county council had focused more on educating residents about traffic safety or implemented stricter regulations to punish anyone who violate traffic rules. And thus less traffic accidents were happened over that period of time. Therefore, either possibility could be the main primary reason for the decrease of traffic accidents, which may render the road improvement project worthless for Prunty County to adopt.
 
