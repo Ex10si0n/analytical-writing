@@ -223,3 +223,23 @@ In sum up, whether **[goals to achieve]** is still questionable and worth furthe
 
 * **Alternative Explanations:**
 In sum, while the assumption that **[reason]** contributes to **[fact]**, we remain open to different explanations that also help to illustrate the facts presented in the article. Unless the author offers clarification, we remain doubtful that his explanation is the only possibility.
+
+
+### TL;DR
+
+#### Introduction
+Nevertheless, the argument is flawed in several critical respects as it suffers from ____
+
+* **questionable points**.
+* **insufficient evidence** to consolidate his conclusion.
+* **unreliable assumptions**, which, if proved unwarranted, would challenge his conclusion.
+* **alternative possibilities**.
+
+#### Conclusion
+
+To sum up, it is questionable for author's deduction. ____
+
+* **ask questions**
+* **provide** conclusive evidence
+* **assumption** worth further investigation
+* we offer **different explanation**
